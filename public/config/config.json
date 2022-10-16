@@ -1,19 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0xe9e90d66b1c644c17fb22ecc83f5f1ce387a2956",
-  "SCAN_LINK": "https://etherscan.io/address/0xe9e90d66b1c644c17fb22ecc83f5f1ce387a2956",
+  "CONTRACT_ADDRESS": "0x5aa1f41989b596a5f6a6d0e4b5bffba7a576df30",
+  "SCAN_LINK": "https://etherscan.io/address/0x5aa1f41989b596a5f6a6d0e4b5bffba7a576df30",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Zombified",
-  "SYMBOL": "ZOMBIFIED",
-  "MAX_SUPPLY": 444,
+  "NFT_NAME": "Beta Calls Pass",
+  "SYMBOL": "",
+  "MAX_SUPPLY": 0,
   "WEI_COST_WL": 0,
   "WEI_COST_PUBLIC": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/zombified-humans",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/beta-calls-pass",
   "SHOW_BACKGROUND": true
 }
